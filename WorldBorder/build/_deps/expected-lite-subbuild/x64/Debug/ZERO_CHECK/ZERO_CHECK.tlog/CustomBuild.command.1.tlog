@@ -1,0 +1,10 @@
+^C:\PROJECTS\MINI GAMES\WORLDBORDER\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\29397FED7129F5B80B478A19AD45F42C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild" "-BC:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/expected-lite-populate.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

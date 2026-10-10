@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "endstone-zombie-infection"
+version = "1.0.0"
+description = "Zombie Infection System — irreversible infection, classes, sun burning, respawn cooldown"
+requires-python = ">=3.10"
+dependencies = ["endstone>=0.11,<1.0"]
+
+[project.entry-points.endstone]
+zombie_infection = "endstone_zombie_infection:ZombieInfectionPlugin"
+
+[tool.setuptools.packages.find]
+where = ["src"]

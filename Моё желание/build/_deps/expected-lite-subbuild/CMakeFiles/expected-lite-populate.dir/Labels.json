@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/expected-lite-populate"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/c865ebff50b0374eadb13debbab8fe4c/expected-lite-populate.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/0de28b9f56060a6c4e7b08f420ee47d6/expected-lite-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-build.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-download.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-install.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-test.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/expected-lite-subbuild/CMakeFiles/2cc5d73a49ffef4471350538a429bfcb/expected-lite-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"expected-lite-populate"
+		],
+		"name" : "expected-lite-populate"
+	}
+}

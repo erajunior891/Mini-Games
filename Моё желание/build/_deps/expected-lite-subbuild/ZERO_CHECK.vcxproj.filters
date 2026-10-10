@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\c865ebff50b0374eadb13debbab8fe4c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2204C048-C997-3D8B-BC51-2F5D52AF11A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

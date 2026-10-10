@@ -1,0 +1,14 @@
+pyproject.toml
+src/endstone_zombie_infection/__init__.py
+src/endstone_zombie_infection/commands.py
+src/endstone_zombie_infection/listeners.py
+src/endstone_zombie_infection/manager.py
+src/endstone_zombie_infection/models.py
+src/endstone_zombie_infection/plugin.py
+src/endstone_zombie_infection/storage.py
+src/endstone_zombie_infection.egg-info/PKG-INFO
+src/endstone_zombie_infection.egg-info/SOURCES.txt
+src/endstone_zombie_infection.egg-info/dependency_links.txt
+src/endstone_zombie_infection.egg-info/entry_points.txt
+src/endstone_zombie_infection.egg-info/requires.txt
+src/endstone_zombie_infection.egg-info/top_level.txt

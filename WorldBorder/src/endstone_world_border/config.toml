@@ -1,0 +1,49 @@
+# Default configuration for Endstone World Border
+config-version = 1
+
+[border]
+# Whether world border is active
+enabled = true
+
+# Shape: "square" (default) or "circle"
+shape = "square"
+
+# Center coordinates of the border
+center-x = 0.0
+center-z = 0.0
+
+# Radius in blocks from center (for square, radius is half the side width)
+# e.g. radius 500 means X from -500 to +500, Z from -500 to +500 (total size 1000x1000)
+radius = 500.0
+
+# Distance from border in blocks to start showing warning particles and notifications
+warning-distance = 15.0
+
+[action]
+# Prevent moving beyond border (cancels move event)
+prevent-move = true
+
+# Knockback strength when hitting border
+knockback = true
+knockback-strength = 1.2
+
+# Automatically teleport players back inside safe boundary if found outside
+teleport-to-safe = true
+
+# Apply periodic damage to players who remain outside the border
+damage-outside = true
+damage-amount = 2.0
+
+[particles]
+# Spawn border particles when player approaches or hits the border
+enabled = true
+# Particle type to display
+particle-name = "minecraft:redstone_ore_dust_particle"
+
+[messages]
+warning-approaching = "§e⚠ Вы приближаетесь к границе мира! (до границы: {distance}м)"
+border-reached = "§c⛔ Вы достигли границы мира! Дальше пройти нельзя."
+border-damage = "§c⛔ Вы находитесь за границей мира и получаете урон!"
+border-info = "§6[Граница мира] §fЦентр: §eX={center_x}, Z={center_z} §f| Радиус: §e{radius}м §f| Форма: §e{shape}"
+border-set = "§a[Граница мира] §fНовый радиус установлен: §e{radius}м §f(Центр: §eX={center_x}, Z={center_z}§f)"
+border-reloaded = "§a[Граница мира] §fКонфигурация успешно перезагружена!"

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/endstone-populate"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/b91e4e96b368dba3bed6f9be7e2ba6cf/endstone-populate.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/dcabfdb4014162b9aee8778e3b8000d4/endstone-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-build.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-download.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-install.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-test.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041f\u043b\u0430\u0433\u0438\u043d/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"endstone-populate"
+		],
+		"name" : "endstone-populate"
+	}
+}

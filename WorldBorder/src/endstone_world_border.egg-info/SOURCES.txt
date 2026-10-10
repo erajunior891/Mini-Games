@@ -1,0 +1,9 @@
+pyproject.toml
+src/endstone_world_border/__init__.py
+src/endstone_world_border/plugin.py
+src/endstone_world_border.egg-info/PKG-INFO
+src/endstone_world_border.egg-info/SOURCES.txt
+src/endstone_world_border.egg-info/dependency_links.txt
+src/endstone_world_border.egg-info/entry_points.txt
+src/endstone_world_border.egg-info/requires.txt
+src/endstone_world_border.egg-info/top_level.txt

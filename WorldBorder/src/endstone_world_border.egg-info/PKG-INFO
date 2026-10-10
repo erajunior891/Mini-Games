@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: endstone-world-border
+Version: 1.0.0
+Summary: Endstone World Border plugin — customizable boundaries, knockback, damage and visual warnings
+Requires-Python: >=3.10
+Requires-Dist: endstone<1.0,>=0.11

@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CPack.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CPackComponent.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/GNUInstallDirs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Templates/CPackConfig.cmake.in
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-src/CMakeLists.txt
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-src/cmake/expected-lite-config-version.cmake.in
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-src/cmake/expected-lite-config.cmake.in

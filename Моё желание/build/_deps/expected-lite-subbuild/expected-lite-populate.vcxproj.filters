@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\2cc5d73a49ffef4471350538a429bfcb\expected-lite-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\0de28b9f56060a6c4e7b08f420ee47d6\expected-lite-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\c865ebff50b0374eadb13debbab8fe4c\expected-lite-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-subbuild\CMakeFiles\expected-lite-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2204C048-C997-3D8B-BC51-2F5D52AF11A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

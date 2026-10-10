@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\b4a556891303ce9c1fe8f4d196315df0\endstone-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\45348c08df072d27642566e0f67d79da\endstone-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\bf0f289d40d8d58e1177cd98d4cc29d1\endstone-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\Mini Games\Моё желание\build\_deps\endstone-subbuild\CMakeFiles\endstone-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88A71B6B-C426-3B3D-BA96-027D75811A09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

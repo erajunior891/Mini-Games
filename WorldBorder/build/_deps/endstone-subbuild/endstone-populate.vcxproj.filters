@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\73db76fbd96b20f93bfc485b929a9bb1\endstone-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\750917731b6d04d52d928759c07ae559\endstone-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\f4d1350749d0d20276669ce69fbe1078\endstone-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\Mini Games\WorldBorder\build\_deps\endstone-subbuild\CMakeFiles\endstone-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{87B985C4-FA35-31B4-BEFF-59641F9194CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

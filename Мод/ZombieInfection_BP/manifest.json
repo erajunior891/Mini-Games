@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Zombie Infection Behavior Pack",
+    "description": "Overrides mob behavior for players with zombie_infected tag",
+    "uuid": "e1e8cb35-4a66-4948-a25b-4cd3f056cdf4",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "22abc584-05b8-4edc-a614-ea072cd79ae5",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+# Default configuration for Zombie Infection System
+# config-version: do NOT edit manually. Used for automatic migration.
+config-version = 1
+
+[infection]
+# Base chance of infection on hit (0.0 - 1.0)
+infect-chance = 0.75
+
+# Mob types that can infect players
+infect-sources = [
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:drowned",
+    "minecraft:husk",
+    "minecraft:zombie_pigman",
+]
+
+# Incubation time in seconds before full transformation
+incubation-seconds = 45
+
+# Whether incubation timer pauses while player is offline
+pause-incubation-offline = false
+
+# Maximum percentage of online players that can be zombies (1-100)
+# 100 = no limit
+max-zombie-percent = 100
+
+# Whether infected players can damage each other
+zombie-friendly-fire = false
+
+# Whether zombies keep inventory on death
+keep-inventory-for-zombies = false
+
+# Delay in seconds before zombie respawns after death
+zombie-respawn-delay = 25
+
+# HP healed per rotten flesh consumed
+rotten-flesh-heal = 4
+
+[infection.armor-reduction]
+# Reduction in infection chance per armor piece type (subtracted from base chance)
+# Values are absolute percentage points (e.g. 0.05 = 5% reduction)
+leather = 0.03
+chainmail = 0.05
+iron = 0.07
+gold = 0.04
+diamond = 0.10
+netherite = 0.15
+
+[sun]
+# Whether zombies burn in sunlight
+enabled = true
+
+# Damage dealt per burn tick
+damage = 1
+
+# Interval between burn ticks in server ticks (20 ticks = 1 second)
+interval-ticks = 20
+
+# Delay in ticks before burning starts after exposure
+delay-ticks = 30
+
+# Whether wearing a helmet protects from sun
+helmet-protects = true
+
+# Whether helmet loses durability from sun protection
+helmet-durability-loss = true
+
+[classes]
+# Class weights for random selection. Higher = more likely.
+
+[classes.normal]
+display-name = "Обычный"
+hp = 20
+speed = 1.0
+damage = 1.0
+weight = 40
+
+[classes.tank]
+display-name = "Танк"
+hp = 40
+speed = 0.8
+damage = 1.1
+weight = 15
+
+[classes.runner]
+display-name = "Бегун"
+hp = 16
+speed = 1.2
+damage = 1.0
+weight = 20
+
+[classes.glass_cannon]
+display-name = "Стеклянная пушка"
+hp = 12
+speed = 1.15
+damage = 1.5
+weight = 15
+
+[classes.infector]
+display-name = "Инфектор"
+hp = 18
+speed = 1.0
+damage = 0.9
+weight = 10
+bonus-infect-chance = 0.15
+
+[safe-zones]
+# Safe zones where infection cannot occur
+# Default: spawn point, 20 block radius
+enabled = true
+
+[[safe-zones.zones]]
+name = "spawn"
+shape = "sphere"
+dimension = "Overworld"
+center = [0, 64, 0]
+radius = 20
+
+[mobs]
+# Mobs that ignore infected players (hostile mobs)
+ignore-zombie = [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:creeper",
+    "minecraft:spider",
+    "minecraft:enderman",
+    "minecraft:witch",
+    "minecraft:phantom",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:ravager",
+    "minecraft:blaze",
+    "minecraft:ghast",
+    "minecraft:wither_skeleton",
+]
+
+# Mobs that flee from infected players (passive mobs)
+flee-zombie = [
+    "minecraft:cow",
+    "minecraft:sheep",
+    "minecraft:pig",
+    "minecraft:chicken",
+    "minecraft:rabbit",
+    "minecraft:horse",
+    "minecraft:villager",
+    "minecraft:cat",
+    "minecraft:wolf",
+]
+
+# Mobs that attack infected players
+attack-zombie = [
+    "minecraft:iron_golem",
+]
+
+[zombie-spawn]
+# Custom spawn point for zombies (can be set via /zombie setspawn)
+enabled = true
+x = 0.0
+y = 64.0
+z = 0.0
+dimension = "Overworld"
+yaw = 0.0
+pitch = 0.0
+
+[messages]
+infection-broadcast = "§4[☣] §c{victim} §4был заражён §c{attacker}§4!"
+incubation-start = "§4[☣] §cВы были заражены! Инкубация: {seconds} сек..."
+incubation-progress = "§c☣ Заражение: {percent}% §7| §c{seconds} сек"
+transformation = "§4[☣] §cВы стали зомби! Класс: §e{class}"
+respawn-countdown = "§c☣ Респаун через: §e{seconds} §cсек"
+zombie-reset = "§a[☣] Вы были вылечены!"
+zombie-info-self = "§e--- Информация о зомби ---\n§7Статус: §c{status}\n§7Класс: §e{class}\n§7Заражений: §c{infect_count}"
+zombie-info-human = "§e--- Информация ---\n§7Статус: §aЧеловек"

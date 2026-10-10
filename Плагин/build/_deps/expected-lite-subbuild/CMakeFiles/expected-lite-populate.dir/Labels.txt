@@ -1,0 +1,14 @@
+# Target labels
+ expected-lite-populate
+# Source files and their labels
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/expected-lite-populate
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/e64eeda226519f0779d901fbddff4b4b/expected-lite-populate.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/7b95222abc765d311cfed6e85372aa98/expected-lite-populate-complete.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-build.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-configure.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-download.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-install.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-mkdir.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-patch.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-test.rule
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/4249903bc94117d3a6bad1b43ef29e28/expected-lite-populate-update.rule

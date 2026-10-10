@@ -1,0 +1,3 @@
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/endstone-populate.dir
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/ZERO_CHECK.dir

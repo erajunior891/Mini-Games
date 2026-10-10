@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "endstone-world-border"
+version = "1.0.0"
+description = "Endstone World Border plugin — customizable boundaries, knockback, damage and visual warnings"
+requires-python = ">=3.10"
+dependencies = ["endstone>=0.11,<1.0"]
+
+[project.entry-points.endstone]
+world_border = "endstone_world_border:WorldBorderPlugin"
+
+[tool.setuptools.packages.find]
+where = ["src"]

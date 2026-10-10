@@ -1,0 +1,2 @@
+[endstone]
+zombie_infection = endstone_zombie_infection:ZombieInfectionPlugin

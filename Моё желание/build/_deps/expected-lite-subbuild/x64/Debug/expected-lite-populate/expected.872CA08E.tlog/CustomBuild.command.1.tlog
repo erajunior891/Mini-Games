@@ -1,0 +1,150 @@
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/tmp/expected-lite-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/tmp/expected-lite-populate-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-UPDATE.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-src"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/tmp/expected-lite-populate-gitupdate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-CONFIGURE.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-BUILD.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-INSTALL.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\2CC5D73A49FFEF4471350538A429BFCB\EXPECTED-LITE-POPULATE-TEST.RULE
+setlocal
+cd "C:\Projects\Mini Games\Моё желание\build\_deps\expected-lite-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\0DE28B9F56060A6C4E7B08F420EE47D6\EXPECTED-LITE-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/CMakeFiles/Debug/expected-lite-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/expected-lite-populate-prefix/src/expected-lite-populate-stamp/Debug/expected-lite-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKEFILES\C865EBFF50B0374EADB13DEBBAB8FE4C\EXPECTED-LITE-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\МОЁ ЖЕЛАНИЕ\BUILD\_DEPS\EXPECTED-LITE-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild" "-BC:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild" --check-stamp-file "C:/Projects/Mini Games/Моё желание/build/_deps/expected-lite-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

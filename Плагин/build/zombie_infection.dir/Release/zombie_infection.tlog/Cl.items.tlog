@@ -1,0 +1,7 @@
+C:\Projects\Mini Games\Плагин\src\zombie_plugin.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\zombie_plugin.obj
+C:\Projects\Mini Games\Плагин\src\skin_service.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\skin_service.obj
+C:\Projects\Mini Games\Плагин\src\fire_service.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\fire_service.obj
+C:\Projects\Mini Games\Плагин\src\infection_manager.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\infection_manager.obj
+C:\Projects\Mini Games\Плагин\src\mage_service.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\mage_service.obj
+C:\Projects\Mini Games\Плагин\src\packets\skin_packet.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\skin_packet.obj
+C:\Projects\Mini Games\Плагин\src\packets\actor_data_packet.cpp;C:\Projects\Mini Games\Плагин\build\zombie_infection.dir\Release\actor_data_packet.obj

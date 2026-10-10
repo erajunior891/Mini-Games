@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/endstone-populate"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/bf0f289d40d8d58e1177cd98d4cc29d1/endstone-populate.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/45348c08df072d27642566e0f67d79da/endstone-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-build.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-download.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-install.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-test.rule"
+		},
+		{
+			"file" : "C:/Projects/Mini Games/\u041c\u043e\u0451 \u0436\u0435\u043b\u0430\u043d\u0438\u0435/build/_deps/endstone-subbuild/CMakeFiles/b4a556891303ce9c1fe8f4d196315df0/endstone-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"endstone-populate"
+		],
+		"name" : "endstone-populate"
+	}
+}

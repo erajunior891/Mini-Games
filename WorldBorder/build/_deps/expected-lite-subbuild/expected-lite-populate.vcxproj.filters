@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\c946710fa8632b95efb7932de26a6139\expected-lite-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\78ab2671d37546384d68deb177c8a789\expected-lite-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\29397fed7129f5b80b478a19ad45f42c\expected-lite-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\Mini Games\WorldBorder\build\_deps\expected-lite-subbuild\CMakeFiles\expected-lite-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9394FEB7-4132-371C-87ED-1C4E388E72B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+# Target labels
+ expected-lite-populate
+# Source files and their labels
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/expected-lite-populate
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/29397fed7129f5b80b478a19ad45f42c/expected-lite-populate.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/78ab2671d37546384d68deb177c8a789/expected-lite-populate-complete.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-build.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-configure.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-download.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-install.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-mkdir.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-patch.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-test.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-subbuild/CMakeFiles/c946710fa8632b95efb7932de26a6139/expected-lite-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ endstone-populate
+# Source files and their labels
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/endstone-populate
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/f4d1350749d0d20276669ce69fbe1078/endstone-populate.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/750917731b6d04d52d928759c07ae559/endstone-populate-complete.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-build.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-configure.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-download.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-install.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-mkdir.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-patch.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-test.rule
+C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-subbuild/CMakeFiles/73db76fbd96b20f93bfc485b929a9bb1/endstone-populate-update.rule

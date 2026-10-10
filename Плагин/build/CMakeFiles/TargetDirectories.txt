@@ -1,0 +1,11 @@
+C:/Projects/Mini Games/Плагин/build/CMakeFiles/zombie_infection.dir
+C:/Projects/Mini Games/Плагин/build/CMakeFiles/PACKAGE.dir
+C:/Projects/Mini Games/Плагин/build/CMakeFiles/INSTALL.dir
+C:/Projects/Mini Games/Плагин/build/CMakeFiles/ALL_BUILD.dir
+C:/Projects/Mini Games/Плагин/build/CMakeFiles/ZERO_CHECK.dir
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-build/CMakeFiles/PACKAGE.dir
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-build/CMakeFiles/INSTALL.dir
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-build/CMakeFiles/ALL_BUILD.dir
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-build/CMakeFiles/PACKAGE.dir
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-build/CMakeFiles/INSTALL.dir
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-build/CMakeFiles/ALL_BUILD.dir

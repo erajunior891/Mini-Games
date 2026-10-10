@@ -1,0 +1,8 @@
+{
+  "name": "zombie_mage",
+  "version": "1.0.0",
+  "api_version": "0.11",
+  "main": "ZombieMagePlugin",
+  "description": "Персональный класс Зомби-Мага с привязкой по XUID",
+  "authors": ["Admin"]
+}

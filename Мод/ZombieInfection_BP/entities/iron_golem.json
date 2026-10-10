@@ -1,0 +1,37 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:iron_golem",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 1,
+        "must_see": true,
+        "entity_types": [
+          {
+            "filters": {
+              "all_of": [
+                { "test": "is_family", "subject": "other", "value": "player" },
+                { "test": "has_tag", "subject": "other", "value": "zombie_infected" }
+              ]
+            },
+            "max_dist": 16
+          },
+          {
+            "filters": {
+              "all_of": [
+                { "test": "is_family", "subject": "other", "value": "monster" },
+                { "test": "is_family", "subject": "other", "operator": "!=", "value": "creeper" }
+              ]
+            },
+            "max_dist": 16
+          }
+        ]
+      }
+    }
+  }
+}

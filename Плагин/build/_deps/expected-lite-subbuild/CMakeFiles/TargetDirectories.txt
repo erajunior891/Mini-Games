@@ -1,0 +1,3 @@
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/expected-lite-populate.dir
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Projects/Mini Games/Плагин/build/_deps/expected-lite-subbuild/CMakeFiles/ZERO_CHECK.dir

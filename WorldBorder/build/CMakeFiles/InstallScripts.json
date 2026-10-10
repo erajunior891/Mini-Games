@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Projects/Mini Games/WorldBorder/build/cmake_install.cmake",
+		"C:/Projects/Mini Games/WorldBorder/build/_deps/endstone-build/cmake_install.cmake",
+		"C:/Projects/Mini Games/WorldBorder/build/_deps/expected-lite-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

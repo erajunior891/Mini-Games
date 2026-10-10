@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\WorldBorder\build\CMakeFiles\9c6b65f932aba9a50a43eede8f0e1ecc\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{251DC235-6FA3-3041-9191-CEDB60F212CC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

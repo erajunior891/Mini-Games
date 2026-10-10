@@ -1,0 +1,144 @@
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/tmp/endstone-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-DOWNLOAD.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-update"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-CONFIGURE.RULE
+setlocal
+cd "C:\Projects\Mini Games\Плагин\build\_deps\endstone-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-BUILD.RULE
+setlocal
+cd "C:\Projects\Mini Games\Плагин\build\_deps\endstone-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-INSTALL.RULE
+setlocal
+cd "C:\Projects\Mini Games\Плагин\build\_deps\endstone-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\4E78AEC56A33B1697A526B88C888926E\ENDSTONE-POPULATE-TEST.RULE
+setlocal
+cd "C:\Projects\Mini Games\Плагин\build\_deps\endstone-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\DCABFDB4014162B9AEE8778E3B8000D4\ENDSTONE-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/Debug/endstone-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/Debug/endstone-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKEFILES\B91E4E96B368DBA3BED6F9BE7E2BA6CF\ENDSTONE-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\MINI GAMES\ПЛАГИН\BUILD\_DEPS\ENDSTONE-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild" "-BC:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild" --check-stamp-file "C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

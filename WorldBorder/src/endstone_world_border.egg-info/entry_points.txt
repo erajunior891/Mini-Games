@@ -1,0 +1,2 @@
+[endstone]
+world_border = endstone_world_border:WorldBorderPlugin

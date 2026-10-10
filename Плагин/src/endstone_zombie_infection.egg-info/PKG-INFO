@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: endstone-zombie-infection
+Version: 1.0.0
+Summary: Zombie Infection System — irreversible infection, classes, sun burning, respawn cooldown
+Requires-Python: >=3.10
+Requires-Dist: endstone<1.0,>=0.11

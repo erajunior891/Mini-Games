@@ -1,0 +1,14 @@
+# Target labels
+ endstone-populate
+# Source files and their labels
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/endstone-populate
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/b91e4e96b368dba3bed6f9be7e2ba6cf/endstone-populate.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/dcabfdb4014162b9aee8778e3b8000d4/endstone-populate-complete.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-build.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-configure.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-download.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-install.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-mkdir.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-patch.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-test.rule
+C:/Projects/Mini Games/Плагин/build/_deps/endstone-subbuild/CMakeFiles/4e78aec56a33b1697a526b88c888926e/endstone-populate-update.rule

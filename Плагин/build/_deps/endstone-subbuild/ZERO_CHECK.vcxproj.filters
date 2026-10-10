@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Mini Games\Плагин\build\_deps\endstone-subbuild\CMakeFiles\b91e4e96b368dba3bed6f9be7e2ba6cf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8100CF2D-24F2-3A79-8950-943351D0DA52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

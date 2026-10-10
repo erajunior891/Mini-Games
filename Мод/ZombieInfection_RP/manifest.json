@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Zombie Infection Resource Pack",
+    "description": "Visual indicators and overlay for Zombie Infection System",
+    "uuid": "1fb8a441-cf55-4c49-9cc4-734260984b45",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bfdf772c-e505-42fd-ab85-f9d3cb71866f",
+      "version": [1, 0, 0]
+    }
+  ]
+}
